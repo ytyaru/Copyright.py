@@ -3,7 +3,7 @@
 import platform
 from Copyright import *
 
-__version__      = '0.0.2'
+__version__      = '0.0.3'
 __author__       = 'ytyaru'
 __author_email__ = 'pypi1@outlook.jp'
 __copyright__    = '© 2020 ytyaru'
