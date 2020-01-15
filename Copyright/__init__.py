@@ -12,6 +12,6 @@ __url__          = 'https://github.com/ytyaru/Copyright.py'
 __all__ = ['Copyright']
 
 vers = platform.python_version_tuple()
-if   2 >= int(vers[0]): from Copyright.py2.Copyright import *
+if   2 >= int(vers[0]): pass
 elif 3 <= int(vers[0]): from Copyright.py3.Copyright import *
 else: raise Exception('There is no source code corresponding to the specified Python version.')
