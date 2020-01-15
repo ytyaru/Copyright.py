@@ -32,7 +32,7 @@ Copyright.Generator('Your name')
 # Note
 
 * The year is local time. Not UTC time.
-* Only TestPyPI was registered. Could not register with PyPI. #1, #2
+* Only TestPyPI was registered. Could not register with PyPI. [#1](https://github.com/ytyaru/Copyright.py/issues/1), [#2](https://github.com/ytyaru/Copyright.py/issues/2)
 
 # Author
 
