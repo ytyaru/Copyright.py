@@ -15,7 +15,8 @@ Generate copyright.
 # Installation
 
 ```sh
-pip install Copyright
+pip2 install --user -i https://test.pypi.org/simple/ Copyright
+pip3 install --user -i https://test.pypi.org/simple/ Copyright
 ```
 
 # Usage
@@ -31,6 +32,7 @@ Copyright.Generator('Your name')
 # Note
 
 * The year is local time. Not UTC time.
+* Only TestPyPI was registered. Could not register with PyPI. #1, #2
 
 # Author
 
